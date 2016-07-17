@@ -11,3 +11,5 @@ To do that, you need to
 > Seek, and you shall find
 
 Happy hacking!
+
+P.S.: I'm gonna remove this repository permanently in 24 hours.
